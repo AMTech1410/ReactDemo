@@ -1,0 +1,18 @@
+.card.card-primary {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 43px;
+
+}
+.react-toggle {
+    width: 100%;
+    display: inline-block;
+}
+.react-toggle img {
+    width: 100%;
+    max-width: 209px;
+    margin: 0 auto;
+    display: inherit;
+    margin-top: 40px;
+}
